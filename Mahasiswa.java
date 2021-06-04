@@ -2,8 +2,8 @@
 /**
  * Write a description of class Mahasiswa here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Farasatul Munawarah
+ * @version 0.1
  */
 
 public class Mahasiswa
